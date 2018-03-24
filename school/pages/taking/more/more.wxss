@@ -1,0 +1,86 @@
+/* pages/taking/more.wxss */
+
+page {
+  width: 100%;
+  height: 100%;
+  font-size: 0.8rem;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  height: 15%;
+  width: 100%;
+  color: #46454b;
+}
+
+.out {
+  height: 85%;
+  width: 92%;
+  margin: 0 auto;
+}
+
+.row-1-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #c0c0c0;
+  width: 38%;
+  height: 32px;
+  background-color: #7fecad;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.row-2-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.9rem;
+  font-weight: 700;
+  height: 32px;
+  border: 1px solid #c0c0c0;
+  width: 38%;
+  background-color: #7fecad;
+}
+
+.row-3-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.9rem;
+  font-weight: 700;
+  height: 32px;
+  border: 1px solid #c0c0c0;
+  width: 38%;
+  background-color: #7fecad;
+}
+
+.row-4-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.9rem;
+  font-weight: 700;
+  height: 32px;
+  border: 1px solid #c0c0c0;
+  width: 38%;
+  background-color: #7fecad;
+}
+
+.left {
+  width: 38%;
+  display: inline-block;
+  text-indent: 0.7rem;
+  border: 1px solid #c0c0c0;
+}
+
+.right {
+  width: 60%;
+  display: inline-block;
+  border: 1px solid #c0c0c0;
+  text-indent: 0.7rem;
+}

@@ -1,0 +1,45 @@
+<!--pages/taking/more.wxml-->
+<view class='title'>详细信息</view>
+<view class='out'>
+  <view class='row-1-title'>基本信息</view>
+  <view class='row-1'>
+    <view class='left'>序号</view>
+    <view class='right'>[1]</view>
+    <view class='left'>发单时间</view>
+    <view class='right'>2018-3-16</view>
+    <view class='left'>过期时间</view>
+    <view class='right'>2018-3-18</view>
+    <!--必填选项-->
+    <view class='left'>酬劳</view>
+    <view class='right'>2元</view>
+    <view class='left'>送达时间</view>
+    <view class='right'>2018-3-16~2018-3-18</view>
+  </view>
+  <view class='row-2-title'>货物信息</view>
+  <view class='row-2'>
+    <view class='left'>货物类型</view>
+    <view class='right'>快餐</view>
+    <view class='left'>取件地址</view>
+    <view class='right'>一区食堂</view>
+    <view class='left'>取件附注</view>
+    <view class='right'>货到付款</view>
+  </view>
+  <view class='row-3-title'>发单人信息</view>
+  <view class='row-3'>
+    <view class='left'>姓名</view>
+    <view class='right'>张三</view>
+    <view class='left'>手机号</view>
+    <view class='right'>17862840422</view>
+    <view class='left'>收货地址</view>
+    <view class='right'>25楼305宿舍</view>
+  </view>
+  <view class='row-4-title'>取件凭证信息</view>
+  <view class='row-4'>
+    <view class='left'>姓名:</view>
+    <view class='right'>张三</view>
+    <view class='left'>手机号：</view>
+    <view class='right'>17862840422</view>
+    <view class='left'>身份证号码：</view>
+    <view class='right'>3408271992931542</view>
+  </view>
+</view>

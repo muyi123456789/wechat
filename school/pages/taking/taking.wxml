@@ -1,0 +1,28 @@
+<!--pages/taking/taking.wxml-->
+<view class='title'>
+<view>接单中心</view>
+</view>
+<view class='out'>
+<view class='row-1'>
+  <text class="col-0">序号</text>
+  <text class="col-1">发单时间</text>
+  <text class="col-2">酬劳</text>
+  <text class="col-3">货物类型</text>
+  <text class="col-4">送达时间</text>
+  <text class="col-5" bindtap='refresh'>刷新</text>
+</view>
+<!--wx:for="{{}}"  -->
+<scroll-view class='scroll' scroll-y="true">
+<view class='show' >
+  <view class='col-0'><text>[1]</text></view>
+  <view class='col-1'><text>8-10：21</text></view>
+  <view class='col-2'><text>￥2</text></view>
+  <view class='col-3'><text>快餐</text></view>
+  <view class='col-4'><text>8-10:50</text></view>
+  <view class='col-5'><navigator url='/pages/taking/more/more'>详细</navigator></view>
+</view>
+</scroll-view>
+
+
+</view>
+

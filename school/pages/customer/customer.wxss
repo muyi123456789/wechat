@@ -1,0 +1,44 @@
+/* pages/customer/customer.wxss */
+page{
+  width: 100%;
+  height: 100%;
+}
+.top{
+  width: 100%;
+  height: 40%;
+  border-bottom: 1xp solid #c0c0c0;
+  background-color: #3a82ed;
+}
+.top .header-img{
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.top .header-img .img{
+  height:80px;
+  width: 80px;
+  border-radius: 50%;
+}
+.top .time{
+  text-align: center;
+}
+/*-------------------------bot---------------------------------  */
+.bot{
+
+}
+.bot view{
+  width: 100%;
+  height: 15%;
+  border-bottom: 1px dotted #c0c0c0;
+  border-top: 1px solid #c0c0c0;
+  padding: 10px 10px;
+  font-size: 0.8rem;
+  border-radius: 5px;
+}
+.bot .row-7{
+  border-bottom: 1px solid #c0c0c0;
+}
+.bot navigator{
+  display: inline-block;
+}

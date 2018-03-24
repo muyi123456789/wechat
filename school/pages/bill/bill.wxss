@@ -1,0 +1,63 @@
+/* pages/bill/bill.wxss */
+page{
+  width: 100%;
+  height: 100%;
+  font-size: 0.8rem;
+  
+}
+.out{
+  height: 100%;
+  background-color: #ada2a6;
+}
+.out .title{
+  height: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #46454b;
+}
+form .input view{
+  display: flex;
+  margin: 10px;
+}
+form .input view span{
+  align-content: center;
+  width: 25%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input{
+  background-color: #a2999a;
+  width: 65%;
+  display: inline-block;
+  align-content: center;
+}
+textarea{
+  width: 65%;
+  height: 40px;
+  border: 0.5px solid #c1c1c1;
+  background-color: #a2999a;
+}
+.other{
+  height: 40px;
+}
+.btn-area{
+
+}
+.btn-area button{
+  width: 35%;
+  height: 50px;
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 10%;
+  transform: scale(0.6);
+  background-color: #20a4ee;
+  color: #fff;
+}
+
+

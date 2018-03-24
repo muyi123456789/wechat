@@ -1,0 +1,168 @@
+<!--pages/customer/more.wxml-->
+<view class='top'>
+  <text>未完成历史订单</text>
+</view>
+<view class='bot'>
+  <view class='row-1'>
+    <text class='col-1'>[1]</text>
+    <text class='col-2'>2018-3-15-17:15</text>
+    <text class='col-3'>快递</text>
+    <text class='col-4'>￥2</text>
+  </view>
+  <view class='row-2'>
+    <text class='col-1'>张三</text>
+    <text class='col-2'>17862840422</text>
+    <text class='col-3'>qq-977629601</text>
+  </view>
+  <view class='row-3'>
+    <text class='col-1'>李四</text>
+    <text class='col-2'>17862850552</text>
+    <text class='col-3'>qq-799269201</text>
+  </view>
+</view>
+<view class='bot'>
+  <view class='row-1'>
+    <text class='col-1'>[1]</text>
+    <text class='col-2'>2018-3-15-17:15</text>
+    <text class='col-3'>快递</text>
+    <text class='col-4'>￥2</text>
+  </view>
+  <view class='row-2'>
+    <text class='col-1'>张三</text>
+    <text class='col-2'>17862840422</text>
+    <text class='col-3'>qq-977629601</text>
+  </view>
+  <view class='row-3'>
+    <text class='col-1'>李四</text>
+    <text class='col-2'>17862850552</text>
+    <text class='col-3'>qq-799269201</text>
+  </view>
+</view>
+<view class='bot'>
+  <view class='row-1'>
+    <text class='col-1'>[1]</text>
+    <text class='col-2'>2018-3-15-17:15</text>
+    <text class='col-3'>快递</text>
+    <text class='col-4'>￥2</text>
+  </view>
+  <view class='row-2'>
+    <text class='col-1'>张三</text>
+    <text class='col-2'>17862840422</text>
+    <text class='col-3'>qq-977629601</text>
+  </view>
+  <view class='row-3'>
+    <text class='col-1'>李四</text>
+    <text class='col-2'>17862850552</text>
+    <text class='col-3'>qq-799269201</text>
+  </view>
+</view>
+<view class='bot'>
+  <view class='row-1'>
+    <text class='col-1'>[1]</text>
+    <text class='col-2'>2018-3-15-17:15</text>
+    <text class='col-3'>快递</text>
+    <text class='col-4'>￥2</text>
+  </view>
+  <view class='row-2'>
+    <text class='col-1'>张三</text>
+    <text class='col-2'>17862840422</text>
+    <text class='col-3'>qq-977629601</text>
+  </view>
+  <view class='row-3'>
+    <text class='col-1'>李四</text>
+    <text class='col-2'>17862850552</text>
+    <text class='col-3'>qq-799269201</text>
+  </view>
+</view>
+<view class='bot'>
+  <view class='row-1'>
+    <text class='col-1'>[1]</text>
+    <text class='col-2'>2018-3-15-17:15</text>
+    <text class='col-3'>快递</text>
+    <text class='col-4'>￥2</text>
+  </view>
+  <view class='row-2'>
+    <text class='col-1'>张三</text>
+    <text class='col-2'>17862840422</text>
+    <text class='col-3'>qq-977629601</text>
+  </view>
+  <view class='row-3'>
+    <text class='col-1'>李四</text>
+    <text class='col-2'>17862850552</text>
+    <text class='col-3'>qq-799269201</text>
+  </view>
+</view>
+<view class='bot'>
+  <view class='row-1'>
+    <text class='col-1'>[1]</text>
+    <text class='col-2'>2018-3-15-17:15</text>
+    <text class='col-3'>快递</text>
+    <text class='col-4'>￥2</text>
+  </view>
+  <view class='row-2'>
+    <text class='col-1'>张三</text>
+    <text class='col-2'>17862840422</text>
+    <text class='col-3'>qq-977629601</text>
+  </view>
+  <view class='row-3'>
+    <text class='col-1'>李四</text>
+    <text class='col-2'>17862850552</text>
+    <text class='col-3'>qq-799269201</text>
+  </view>
+</view>
+<view class='bot'>
+  <view class='row-1'>
+    <text class='col-1'>[1]</text>
+    <text class='col-2'>2018-3-15-17:15</text>
+    <text class='col-3'>快递</text>
+    <text class='col-4'>￥2</text>
+  </view>
+  <view class='row-2'>
+    <text class='col-1'>张三</text>
+    <text class='col-2'>17862840422</text>
+    <text class='col-3'>qq-977629601</text>
+  </view>
+  <view class='row-3'>
+    <text class='col-1'>李四</text>
+    <text class='col-2'>17862850552</text>
+    <text class='col-3'>qq-799269201</text>
+  </view>
+</view>
+<view class='bot'>
+  <view class='row-1'>
+    <text class='col-1'>[1]</text>
+    <text class='col-2'>2018-3-15-17:15</text>
+    <text class='col-3'>快递</text>
+    <text class='col-4'>￥2</text>
+  </view>
+  <view class='row-2'>
+    <text class='col-1'>张三</text>
+    <text class='col-2'>17862840422</text>
+    <text class='col-3'>qq-977629601</text>
+  </view>
+  <view class='row-3'>
+    <text class='col-1'>李四</text>
+    <text class='col-2'>17862850552</text>
+    <text class='col-3'>qq-799269201</text>
+  </view>
+</view>
+<view class='bot'>
+  <view class='row-1'>
+    <text class='col-1'>[1]</text>
+    <text class='col-2'>2018-3-15-17:15</text>
+    <text class='col-3'>快递</text>
+    <text class='col-4'>￥2</text>
+  </view>
+  <view class='row-2'>
+    <text class='col-1'>张三</text>
+    <text class='col-2'>17862840422</text>
+    <text class='col-3'>qq-977629601</text>
+  </view>
+  <view class='row-3'>
+    <text class='col-1'>李四</text>
+    <text class='col-2'>17862850552</text>
+    <text class='col-3'>qq-799269201</text>
+  </view>
+</view>
+
+

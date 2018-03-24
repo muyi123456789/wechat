@@ -1,0 +1,18 @@
+<view class='top'>
+  <view class='header-img'>
+    <image src='/image/home.jpg' class='img'></image>
+  </view>
+  <view class='time'>
+    <view>微信昵称</view>
+    <view>2018-3-15-8:55</view> 
+  </view>
+</view>
+<view class='bot'>
+  <view class='row-1'>我的姓名：<text>张三</text></view>
+  <view class='row-2'>我的年级：<text>大四</text></view>
+  <view class='row-3'>联系方式：<text>QQ 微信 Phone</text></view>
+  <view class='row-4'>我的优惠：<text>会员优惠</text></view>
+  <view class='row-5'>常用地址：<text>25楼305宿舍</text></view>
+  <view class='row-6'>已完成订单：<navigator url="/pages/customer/more/more?nodo">详细</navigator></view>
+  <view class='row-7'>未完成订单：<navigator url="/pages/customer/more/more?done">详细</navigator></view>
+</view>

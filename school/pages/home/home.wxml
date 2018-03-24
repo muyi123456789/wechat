@@ -1,0 +1,22 @@
+<!--pages/home/home.wxml-->
+<view class='banner'>
+  <swiper indicator-dots="rgb(208,16,76)"
+    autoplay="true" interval="5000" duration="3000" indicator-active-color='red' circular="true">
+    <block wx:for="{{imgUrls}}">
+      <swiper-item>
+        <image src="{{item}}" class="slide-image"/>
+      </swiper-item>
+    </block>
+  </swiper>
+</view>
+<image src="/image/grower.jpg" class='ig'></image>
+<view class='con'>
+  <view class='left'>
+    <view class='title'><span>我们的服务</span></view>
+    <view><text>快递跑腿</text></view>
+  </view>
+  <view class='right'>
+    <view class='title'><span>您的建议</span></view>
+    <view class='sug-view'><textarea class='sug' maxlength='-1'>点击此处，可进行填写输入...</textarea></view>
+  </view>
+</view>

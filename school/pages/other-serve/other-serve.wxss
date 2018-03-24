@@ -1,0 +1,67 @@
+/* pages/other-serve/other-serve.wxss */
+page{
+  height: 100%;
+  width: 100%;
+}
+.serve-list{
+  height: 15%;
+  width: 100%;
+  margin: 5px auto;
+}
+.serve-list .name{
+  width: 80%;
+  height: 20%;
+  margin-left: 2rem;
+  margin-top: 5px;
+  font-size: 0.7rem;
+  color: #fa5f5f;
+}
+.serve-list .name .left{
+  font-weight: 700;
+}
+.serve-list .name .right{
+  float: right;
+  font-size: 0.7rem;
+}
+.serve-list .con{
+  display: block;
+  margin: 5px 2rem;
+  width:80%;
+  height: 60%;
+  border-top: 2px solid #787878;
+  border-bottom: 0.5px solid rgb(237, 237, 237);
+  border-left: 1px solid rgb(237, 237, 237);
+  border-right: 1px solid rgb(237, 237, 237);
+  font-size: 0.7rem;
+  padding: 3px;
+  background-color: #fff;
+}
+.serve-list .con .text{
+  width: 100%;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+.bot{
+  margin-top:2rem;
+  color: #333;
+  position: relative;
+  width: 100%;
+  background-color: #c0c0c0;
+}
+.bot .con{
+  padding: 5px 25px;
+}
+.bot .con .company-list {
+  margin-top: 0.3rem;
+}
+.bot .con .company-list .title{
+  font-size: 0.5rem;
+}
+.bot .con .company-list .value{
+  padding-left: 1rem;
+  word-wrap: break-word;
+  margin:3px auto;
+  font-size: 0.5rem;
+}
+
+

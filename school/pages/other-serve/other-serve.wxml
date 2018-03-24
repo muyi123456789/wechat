@@ -1,0 +1,25 @@
+<!--pages/other-serve/other-serve.wxml-->
+<view class="serve-list" wx:for="{{items}}">
+  <view class='name'>
+    <text class='left'>{{item.name}}</text>
+    <text class='right'>>>>点击跳转</text>
+  </view>
+  <scroll-view scroll-y="true" class='con'>
+    <text class='text'>{{item.con}}</text>
+  </scroll-view>
+</view>
+<view class='bot'>
+  <view class='con'>
+    <view class='company-list' wx:for="{{info}}">
+      <view class='title'>
+        {{item.title}}
+      </view>
+      <view class='value'>
+        {{item.value}}
+      </view>
+    </view>
+  </view>
+</view>
+
+
+

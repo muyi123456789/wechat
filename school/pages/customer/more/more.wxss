@@ -1,0 +1,90 @@
+/* pages/customer/more.wxss */
+page{
+  height: 100%;
+}
+.top{
+  width: 100%;
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.top text{
+
+}
+.bot{
+  margin-top: 5px;
+}
+.bot .row-1{
+  width: 100%;
+  border-bottom: 1px solid #c0c0c0;
+  font-size: 0.7rem;
+  line-height: 1.2rem;
+  background-color: #c0c0c0;
+}
+.bot .row-2{
+  width: 80%;
+  border-bottom: 1px dotted #c0c0c0;
+  border-bottom-left-radius: 5px;
+  font-size: 0.7rem;
+  line-height: 1.2rem;
+  margin-left: 20%;
+}
+.bot .row-3{
+  width: 80%;
+  border-bottom: 1px dotted #c0c0c0;
+  font-size: 0.7rem;
+  line-height: 1.2rem;
+  margin-left: 20%;
+  border-bottom-left-radius: 5px;
+}
+.bot .row-1 .col-1{
+  display: inline-block;
+  text-align: center;
+  width: 5%;
+}
+.bot .row-1 .col-2{
+  width: 40%;
+  display: inline-block;
+  text-align: center;
+}
+.bot .row-1 .col-3{
+  width: 20%;
+  display: inline-block;
+  text-align: center;
+}
+.bot .row-1 .col-4{
+  width: 8%;
+  display: inline-block;
+  text-align: center;
+}
+.bot .row-2 .col-1{
+  display: inline-block;
+  text-align: center;
+  width: 10%;
+}
+.bot .row-2 .col-2{
+  width: 45%;
+  display: inline-block;
+  text-align: center;
+}
+.bot .row-2 .col-3{
+  width: 45%;
+  display: inline-block;
+  text-align: center;
+}
+.bot .row-3 .col-1{
+  display: inline-block;
+  text-align: center;
+  width: 10%;
+}
+.bot .row-3 .col-2{
+  width: 45%;
+  display: inline-block;
+  text-align: center;
+}
+.bot .row-3 .col-3{
+  width: 45%;
+  display: inline-block;
+  text-align: center;
+}

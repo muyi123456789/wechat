@@ -1,0 +1,27 @@
+<!--pages/bill/bill.wxml-->
+<!-- <scroll-view class='illustration' scroll-y="true">
+  <view>
+  发单说明：发单提示：发单需要填写那几个条件；发单的详细内容以及发单的无效时间等，还有需要避免的事情  （比如收件人为女生，男生不能进入公寓等，买的东西是私人用品，需要特殊人群买等等）；发单说明：发单提示：发单需要填写那几个条件；发单的详细内容以及发单的无效时间等，还有需要避免的事情  （比如收件人为女生，男生不能进入公寓等，买的东西是私人用品，需要特殊人群买等等）；发单说明：发单提示：发单需要填写那几个条件；发单的详细内容以及发单的无效时间等，还有需要避免的事情  （比如收件人为女生，男生不能进入公寓等，买的东西是私人用品，需要特殊人群买等等）；
+  </view>
+</scroll-view> -->
+<view class='out'>
+<view class='title'>
+  发单中心
+</view>
+<form class='form' bindsubmit='formsubmit'>
+  <view class='input'>
+    <view><span>姓名：</span><input name="name" style='border:1px solid {{border_color}}' bindfocus='change_color'></input></view>
+    <view><span>性别：</span><input name="sex" style='border:1px solid {{border_color}}' bindfocus='change_color'></input></view>
+    <view><span>快件类型：</span><input name="type" style='border:1px solid {{border_color}}' bindfocus='change_color'></input></view>
+    <view><span>酬劳：</span><input name="money" style='border:1px solid {{border_color}}' bindfocus='change_color'></input></view>
+    <view><span>手机：</span><input name="iphone" style='border:1px solid {{border_color}}' bindfocus='change_color'></input></view>
+    <view><span>地址：</span><input name="adr" style='border:1px solid {{border_color}}' bindfocus='change_color'></input></view>
+    <view><span>送达时间：</span><input name="time" style='border:1px solid {{border_color}}' bindfocus='change_color'></input></view>
+    <view><span>附注信息：</span><textarea name="more" class='other'></textarea></view>
+  </view>
+  <view class="btn-area">
+    <button formType="submit">提交</button>
+    <button formType="reset">清空</button>
+  </view>
+</form>
+</view>

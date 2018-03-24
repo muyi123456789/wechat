@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/bill/bill",
+    "pages/taking/taking",
+    "pages/customer/customer",
+    "pages/other-serve/other-serve",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/customer/more/more",
+    "pages/taking/more/more"
+  ],
+  "window": {
+    "navigationBarTitleText": "校园Bais"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/bill/bill",
+        "text": "发单"
+      },
+      {
+        "pagePath": "pages/taking/taking",
+        "text": "接单"
+      },
+      {
+        "pagePath": "pages/customer/customer",
+        "text": "我的"
+      },
+      {
+        "pagePath": "pages/other-serve/other-serve",
+        "text": "其他服务"
+      }
+    ],
+    "color": "#40de5a",
+    "backgroundColor": "#808080",
+    "selectedColor": "#be002f"
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}
